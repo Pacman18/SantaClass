@@ -1,0 +1,15 @@
+c:\Work\SantaClass\CSharpBasic\firstclass\bin\Debug\net7.0\firstclass.exe
+c:\Work\SantaClass\CSharpBasic\firstclass\bin\Debug\net7.0\firstclass.deps.json
+c:\Work\SantaClass\CSharpBasic\firstclass\bin\Debug\net7.0\firstclass.runtimeconfig.json
+c:\Work\SantaClass\CSharpBasic\firstclass\bin\Debug\net7.0\firstclass.dll
+c:\Work\SantaClass\CSharpBasic\firstclass\bin\Debug\net7.0\firstclass.pdb
+c:\Work\SantaClass\CSharpBasic\firstclass\obj\Debug\net7.0\firstclass.csproj.AssemblyReference.cache
+c:\Work\SantaClass\CSharpBasic\firstclass\obj\Debug\net7.0\firstclass.GeneratedMSBuildEditorConfig.editorconfig
+c:\Work\SantaClass\CSharpBasic\firstclass\obj\Debug\net7.0\firstclass.AssemblyInfoInputs.cache
+c:\Work\SantaClass\CSharpBasic\firstclass\obj\Debug\net7.0\firstclass.AssemblyInfo.cs
+c:\Work\SantaClass\CSharpBasic\firstclass\obj\Debug\net7.0\firstclass.csproj.CoreCompileInputs.cache
+c:\Work\SantaClass\CSharpBasic\firstclass\obj\Debug\net7.0\firstclass.dll
+c:\Work\SantaClass\CSharpBasic\firstclass\obj\Debug\net7.0\refint\firstclass.dll
+c:\Work\SantaClass\CSharpBasic\firstclass\obj\Debug\net7.0\firstclass.pdb
+c:\Work\SantaClass\CSharpBasic\firstclass\obj\Debug\net7.0\firstclass.genruntimeconfig.cache
+c:\Work\SantaClass\CSharpBasic\firstclass\obj\Debug\net7.0\ref\firstclass.dll

@@ -1,0 +1,7 @@
+C:\Work\SantaClass\Human\IntroduceMySelf\bin\Debug\IntroduceMySelf.exe.config
+C:\Work\SantaClass\Human\IntroduceMySelf\bin\Debug\IntroduceMySelf.exe
+C:\Work\SantaClass\Human\IntroduceMySelf\bin\Debug\IntroduceMySelf.pdb
+C:\Work\SantaClass\Human\IntroduceMySelf\obj\Debug\IntroduceMySelf.csproj.AssemblyReference.cache
+C:\Work\SantaClass\Human\IntroduceMySelf\obj\Debug\IntroduceMySelf.csproj.CoreCompileInputs.cache
+C:\Work\SantaClass\Human\IntroduceMySelf\obj\Debug\IntroduceMySelf.exe
+C:\Work\SantaClass\Human\IntroduceMySelf\obj\Debug\IntroduceMySelf.pdb
