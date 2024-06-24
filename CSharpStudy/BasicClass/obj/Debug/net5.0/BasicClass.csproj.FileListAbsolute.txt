@@ -1,0 +1,16 @@
+C:\Work\SantaClass\CSharpStudy\BasicClass\bin\Debug\net5.0\BasicClass.exe
+C:\Work\SantaClass\CSharpStudy\BasicClass\bin\Debug\net5.0\BasicClass.deps.json
+C:\Work\SantaClass\CSharpStudy\BasicClass\bin\Debug\net5.0\BasicClass.runtimeconfig.json
+C:\Work\SantaClass\CSharpStudy\BasicClass\bin\Debug\net5.0\BasicClass.runtimeconfig.dev.json
+C:\Work\SantaClass\CSharpStudy\BasicClass\bin\Debug\net5.0\BasicClass.dll
+C:\Work\SantaClass\CSharpStudy\BasicClass\bin\Debug\net5.0\ref\BasicClass.dll
+C:\Work\SantaClass\CSharpStudy\BasicClass\bin\Debug\net5.0\BasicClass.pdb
+C:\Work\SantaClass\CSharpStudy\BasicClass\obj\Debug\net5.0\BasicClass.csproj.AssemblyReference.cache
+C:\Work\SantaClass\CSharpStudy\BasicClass\obj\Debug\net5.0\BasicClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\SantaClass\CSharpStudy\BasicClass\obj\Debug\net5.0\BasicClass.AssemblyInfoInputs.cache
+C:\Work\SantaClass\CSharpStudy\BasicClass\obj\Debug\net5.0\BasicClass.AssemblyInfo.cs
+C:\Work\SantaClass\CSharpStudy\BasicClass\obj\Debug\net5.0\BasicClass.csproj.CoreCompileInputs.cache
+C:\Work\SantaClass\CSharpStudy\BasicClass\obj\Debug\net5.0\BasicClass.dll
+C:\Work\SantaClass\CSharpStudy\BasicClass\obj\Debug\net5.0\ref\BasicClass.dll
+C:\Work\SantaClass\CSharpStudy\BasicClass\obj\Debug\net5.0\BasicClass.pdb
+C:\Work\SantaClass\CSharpStudy\BasicClass\obj\Debug\net5.0\BasicClass.genruntimeconfig.cache
