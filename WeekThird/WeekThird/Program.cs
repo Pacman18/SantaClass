@@ -209,6 +209,30 @@ namespace WeekThird
             // 
 
 
+            // 이제 struct를 들어가야하지만 어떤 모양인지만 설명하고 
+            // stack 에서 빠지면 어떻게 값타입은 변화하는지 알아보자.  {} 를 나가는 순간 알수없는 값이 됨을 보여준다. 
+
+            ValueCase temp_1 = new ValueCase();
+            ValueCase temp_2 = new ValueCase();
+            temp_1.Number = 10;
+            temp_1.Index = 1;
+
+            Console.WriteLine(" temp_1 의 인덱스 : " + temp_1.Index + ", temp_1의 넘버 :" + temp_1.Number);
+
+            temp_2.Number = 20;
+            temp_2.Index = 2;
+
+            temp_1 = temp_2;
+
+            Console.WriteLine(" temp_1 의 인덱스 : " + temp_1.Index + ", temp_1의 넘버 :" + temp_1.Number);
+
+            temp_1.Number = 10;
+
+            Console.WriteLine(" temp_1 의 인덱스 : " + temp_1.Index + ", temp_1의 넘버 :" + temp_1.Number);
+            Console.WriteLine(" temp_2 의 인덱스 : " + temp_2.Index + ", temp_2의 넘버 :" + temp_2.Number);
+
+            // struct의 학습이 끝났다면  이제 상속으로 넘어가면 된다 .
+
         }
 
         // 몸을 설계 해 봅시다. 
@@ -236,6 +260,12 @@ namespace WeekThird
         {
             public string Name;
             public int Price;
+        }
+
+        public struct ValueCase
+        {
+            public int Number;
+            public int Index;
         }
 
 
