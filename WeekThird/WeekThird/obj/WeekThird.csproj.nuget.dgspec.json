@@ -1,32 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Work\\SantaClass\\CSharpStudy\\BasicClass\\BasicClass.csproj": {}
+    "C:\\Work\\SantaClass\\WeekThird\\WeekThird\\WeekThird.csproj": {}
   },
   "projects": {
-    "C:\\Work\\SantaClass\\CSharpStudy\\BasicClass\\BasicClass.csproj": {
+    "C:\\Work\\SantaClass\\WeekThird\\WeekThird\\WeekThird.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Work\\SantaClass\\CSharpStudy\\BasicClass\\BasicClass.csproj",
-        "projectName": "BasicClass",
-        "projectPath": "C:\\Work\\SantaClass\\CSharpStudy\\BasicClass\\BasicClass.csproj",
+        "projectUniqueName": "C:\\Work\\SantaClass\\WeekThird\\WeekThird\\WeekThird.csproj",
+        "projectName": "WeekThird",
+        "projectPath": "C:\\Work\\SantaClass\\WeekThird\\WeekThird\\WeekThird.csproj",
         "packagesPath": "C:\\Users\\throu\\.nuget\\packages\\",
-        "outputPath": "C:\\Work\\SantaClass\\CSharpStudy\\BasicClass\\obj\\",
+        "outputPath": "C:\\Work\\SantaClass\\WeekThird\\WeekThird\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\throu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {}
           }
         },
@@ -37,8 +37,8 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "imports": [
             "net461",
             "net462",
@@ -50,24 +50,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[5.0.17, 5.0.17]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"

@@ -1,0 +1,15 @@
+C:\Work\SantaClass\WeekThird\WeekThird\bin\Debug\net6.0\WeekThird.exe
+C:\Work\SantaClass\WeekThird\WeekThird\bin\Debug\net6.0\WeekThird.deps.json
+C:\Work\SantaClass\WeekThird\WeekThird\bin\Debug\net6.0\WeekThird.runtimeconfig.json
+C:\Work\SantaClass\WeekThird\WeekThird\bin\Debug\net6.0\WeekThird.dll
+C:\Work\SantaClass\WeekThird\WeekThird\bin\Debug\net6.0\WeekThird.pdb
+C:\Work\SantaClass\WeekThird\WeekThird\obj\Debug\net6.0\WeekThird.csproj.AssemblyReference.cache
+C:\Work\SantaClass\WeekThird\WeekThird\obj\Debug\net6.0\WeekThird.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\SantaClass\WeekThird\WeekThird\obj\Debug\net6.0\WeekThird.AssemblyInfoInputs.cache
+C:\Work\SantaClass\WeekThird\WeekThird\obj\Debug\net6.0\WeekThird.AssemblyInfo.cs
+C:\Work\SantaClass\WeekThird\WeekThird\obj\Debug\net6.0\WeekThird.csproj.CoreCompileInputs.cache
+C:\Work\SantaClass\WeekThird\WeekThird\obj\Debug\net6.0\WeekThird.dll
+C:\Work\SantaClass\WeekThird\WeekThird\obj\Debug\net6.0\refint\WeekThird.dll
+C:\Work\SantaClass\WeekThird\WeekThird\obj\Debug\net6.0\WeekThird.pdb
+C:\Work\SantaClass\WeekThird\WeekThird\obj\Debug\net6.0\WeekThird.genruntimeconfig.cache
+C:\Work\SantaClass\WeekThird\WeekThird\obj\Debug\net6.0\ref\WeekThird.dll
