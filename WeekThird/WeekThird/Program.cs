@@ -13,13 +13,14 @@ namespace WeekThird
             // 4. 3에서 사용할 이름을 지어준다. ( 변수 )
             // 5. 4에 대입한다
 
-            string temp = Console.ReadLine();
+            string temp = Console.ReadLine();            
+
 
             int age1 = int.Parse(temp);
 
             temp = Console.ReadLine();
 
-            int age2 = int.Parse(Console.ReadLine(temp));
+            int age2 = int.Parse(temp);
 
 
             Console.WriteLine("Hello, World!");
