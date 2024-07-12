@@ -1,0 +1,15 @@
+C:\Work\SantaClass\LifeCycle\LifeCycle\bin\Debug\net6.0\LifeCycle.exe
+C:\Work\SantaClass\LifeCycle\LifeCycle\bin\Debug\net6.0\LifeCycle.deps.json
+C:\Work\SantaClass\LifeCycle\LifeCycle\bin\Debug\net6.0\LifeCycle.runtimeconfig.json
+C:\Work\SantaClass\LifeCycle\LifeCycle\bin\Debug\net6.0\LifeCycle.dll
+C:\Work\SantaClass\LifeCycle\LifeCycle\bin\Debug\net6.0\LifeCycle.pdb
+C:\Work\SantaClass\LifeCycle\LifeCycle\obj\Debug\net6.0\LifeCycle.csproj.AssemblyReference.cache
+C:\Work\SantaClass\LifeCycle\LifeCycle\obj\Debug\net6.0\LifeCycle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\SantaClass\LifeCycle\LifeCycle\obj\Debug\net6.0\LifeCycle.AssemblyInfoInputs.cache
+C:\Work\SantaClass\LifeCycle\LifeCycle\obj\Debug\net6.0\LifeCycle.AssemblyInfo.cs
+C:\Work\SantaClass\LifeCycle\LifeCycle\obj\Debug\net6.0\LifeCycle.csproj.CoreCompileInputs.cache
+C:\Work\SantaClass\LifeCycle\LifeCycle\obj\Debug\net6.0\LifeCycle.dll
+C:\Work\SantaClass\LifeCycle\LifeCycle\obj\Debug\net6.0\refint\LifeCycle.dll
+C:\Work\SantaClass\LifeCycle\LifeCycle\obj\Debug\net6.0\LifeCycle.pdb
+C:\Work\SantaClass\LifeCycle\LifeCycle\obj\Debug\net6.0\LifeCycle.genruntimeconfig.cache
+C:\Work\SantaClass\LifeCycle\LifeCycle\obj\Debug\net6.0\ref\LifeCycle.dll

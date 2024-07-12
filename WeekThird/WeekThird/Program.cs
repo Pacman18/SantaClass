@@ -88,6 +88,23 @@ namespace WeekThird
                 Console.WriteLine("둘다 아님");
             }
 
+            // ifelse 문을 여러번 하는 항목에 대한 것을 귀찮음을느낀다. 
+            // 이제 switch 문을 배우는 시점이 되겠다 
+
+            int selectNumber = 1;
+
+            switch(selectNumber)  // 문법상의 다른 방법을 따로 설명한다 .
+            {
+                case 1:    // 1일때   
+                    break;
+                case 2:   //  2일때
+                    break;
+                case 3:
+                    break;
+                default:
+                    break;
+            }
+            
 
             // 복습 기대 사항 : 반복문을 사용할 수 있다,  조건문을 사용해 원하는 시점에서 반복문을 빠져 나갈 수 있다.
             //  위에서 사용한 변수의 재활용이 된다 , 반복문을 빠져 나온 이후 변수의 값을 확인해보자. 
