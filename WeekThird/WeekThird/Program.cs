@@ -13,6 +13,15 @@ namespace WeekThird
             // 4. 3에서 사용할 이름을 지어준다. ( 변수 )
             // 5. 4에 대입한다
 
+            string temp = Console.ReadLine();            
+
+
+            int age1 = int.Parse(temp);
+
+            temp = Console.ReadLine();
+
+            int age2 = int.Parse(temp);
+
 
             Console.WriteLine("Hello, World!");
 
@@ -31,6 +40,12 @@ namespace WeekThird
             {
                 Console.WriteLine("조건문 거짓압니다.");
             }
+
+            // 문제 입력하는 수가 짝수인지 홀 수 인지 판별하는 조건문을 만들어라 
+
+            // 숫자를 1개 선언합니다 - 임의 숫자를 넣고 
+            // 3으로 나누어 떨어지는 숫자인지 아닌지 판별하는 조건문을 만드시오~ 
+            // 3으로 나누어 떨어지면 - O 출력 아니면 X 출력 
 
 
             // 비교 연산자   , 오른쪽에 있는 항목이 맞거나 틀린것을 왼쪽으로 보내줄 수 있다. 
@@ -73,7 +88,7 @@ namespace WeekThird
                 Console.WriteLine("둘다 아님");
             }
 
-            // 위 항목을 진행한 다음에 elseif를 한번 하고 지나가자 
+            // 위 항목을 진행한 다음에 elseif를 한번 하고 지나가자             
 
             if (number_a < number_b)
             {
@@ -88,6 +103,10 @@ namespace WeekThird
                 Console.WriteLine("둘다 아님");
             }
 
+            // 두사람의 나이를 받아 나이가 큰경우와 작은경우를 출력하는 조건문을 만드는것으로 문제 
+
+
+            // 복습 기대 사항 : 반복문을 사용할 수 있다,  조건문을 사용해 원하는 시점에서 반복문을 빠져 나갈 수 있다.
             // ifelse 문을 여러번 하는 항목에 대한 것을 귀찮음을느낀다. 
             // 이제 switch 문을 배우는 시점이 되겠다 
 

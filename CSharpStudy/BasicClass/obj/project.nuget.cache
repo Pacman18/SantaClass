@@ -1,33 +1,13 @@
 {
   "version": 2,
   "dgSpecHash": "TksTXOha0Ha2pM0/6PQN7Ur8xqYk3IB9uR6NlWIRP+H7WH9UxFbS4CPGxqR8e99W8mn91dG2RBSFZRdcZqTizw==",
-  "success": false,
+  "success": true,
   "projectFilePath": "C:\\Work\\SantaClass\\CSharpStudy\\BasicClass\\BasicClass.csproj",
-  "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "NU1301",
-      "level": "Error",
-      "message": "https://api.nuget.org/v3/index.json 원본에 대한 서비스 인덱스를 로드할 수 없습니다.",
-      "libraryId": "Microsoft.WindowsDesktop.App.Ref"
-    },
-    {
-      "code": "NU1301",
-      "level": "Error",
-      "message": "https://api.nuget.org/v3/index.json 원본에 대한 서비스 인덱스를 로드할 수 없습니다.",
-      "libraryId": "Microsoft.NETCore.App.Ref"
-    },
-    {
-      "code": "NU1301",
-      "level": "Error",
-      "message": "https://api.nuget.org/v3/index.json 원본에 대한 서비스 인덱스를 로드할 수 없습니다.",
-      "libraryId": "Microsoft.AspNetCore.App.Ref"
-    },
-    {
-      "code": "NU1301",
-      "level": "Error",
-      "message": "https://api.nuget.org/v3/index.json 원본에 대한 서비스 인덱스를 로드할 수 없습니다.",
-      "libraryId": "Microsoft.NETCore.App.Host.win-x64"
-    }
-  ]
+  "expectedPackageFiles": [
+    "C:\\Users\\throu\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\throu\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\throu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\throu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
 }
