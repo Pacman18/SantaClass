@@ -13,14 +13,14 @@ namespace WeekThird
             // 4. 3에서 사용할 이름을 지어준다. ( 변수 )
             // 5. 4에 대입한다
 
-            string temp = Console.ReadLine();            
+            /*string temp = Console.ReadLine();            
 
 
             int age1 = int.Parse(temp);
 
             temp = Console.ReadLine();
 
-            int age2 = int.Parse(temp);
+            int age2 = int.Parse(temp);*/
 
 
             Console.WriteLine("Hello, World!");
@@ -292,10 +292,13 @@ namespace WeekThird
 
         }
 
-        public class House
+        /// Enum 알려주면서 함수읠 Return 의 기능을 설명 한다.
+
+        public enum SEX
         {
-            public string Name;
-            public int Price;
+            NONE, 
+            MAN,
+            WOMAN,
         }
 
         public struct ValueCase
@@ -304,6 +307,105 @@ namespace WeekThird
             public int Index;
         }
 
+        public class Human
+        {
+            public string Name;
+            public int Age;
+            public SEX Gender;   // Enum을 알려준다.
+
+            // 오버 로딩 
+            public void SetMyInfomation()
+            {
+
+            }
+
+
+            // 오버라이딩 관련 
+            public virtual void IntrouceMySelf()
+            {
+                Console.WriteLine("IntrouceMySelf : " + Name);
+            }
+        }
+
+        // 클래스 상속에 들어감 .  그림으로 알려준다. 
+        public class Man : Human
+        {
+            public int Power;
+
+            public override void IntrouceMySelf()
+            {
+                base.IntrouceMySelf();
+                Console.WriteLine("My Power : " + Power);
+            }
+
+            public void SetMyInfomation(string name)
+            {
+
+            }
+
+            public Man() : base()  // 상속에 상속자가 불리는 순서를 설명한다.  파라미터 상속도 올리는것을 알려준다. 
+            {
+                base.Gender = SEX.MAN;
+            }
+        }
+
+        public class Woman : Human
+        {
+            public int Charming;
+
+            public override void IntrouceMySelf()
+            {
+                base.IntrouceMySelf();
+                Console.WriteLine("My Charming : " + Charming);
+            }
+            public Woman() : base() 
+            {
+                base.Gender = SEX.WOMAN;
+            }
+        }        
+
+        // protected 를 설명하는것지 
+        // 함수의 오버로딩과 오버라이딩을 설명한다. 
+
+
+        // Man, Woman으로 New 한 자식을 Human 부모클래스에 담을 수 있는것을 알려준다. 
+
+        // 그리고 다시 변환할때 as , is 를 사용할 수 있는것을 알려준다.        
+
+        // Generic을 들어간다. 
+
+        // 휴먼을 받을 수 있는 사회 클래스를 만든다. 
+        public class Society
+        {
+            public Human[] humanArray = new Human[10];
+
+            public void InserHuman(int index,Human newBie)
+            {
+                humanArray[index] = newBie;
+            }
+
+            public Man GetMan(int index)
+            {
+                return humanArray[index] as Man; 
+            }
+
+            public Woman GetWoman(int index)
+            {
+                return humanArray[index] as Woman;
+            }
+
+            public T GetHuman<T>(int index) where T : Human
+            {
+                return humanArray[index] as T;
+            }
+        }
+
+        // 그다음에는 컨테이너를 설명합니다, 
+        // Stack, List, Queue, Dictionary 
+
+        // 리스트는 반복문을 돌려서 많이 연습해야합니다. 
+        // 1. 리스트는 인덱스로 접근이 가능하다.
+        // 
 
     }
 }
