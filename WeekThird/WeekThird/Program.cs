@@ -405,7 +405,16 @@ namespace WeekThird
 
         // 리스트는 반복문을 돌려서 많이 연습해야합니다. 
         // 1. 리스트는 인덱스로 접근이 가능하다.
-        // 
+        
+
+        // 함수 포인터에 대한 설명 
+
+        public class Actor
+        {
+            delegate void StuntMan();
+
+            
+        }
 
     }
 }
