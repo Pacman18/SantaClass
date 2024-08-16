@@ -1,0 +1,15 @@
+C:\Work\SantaClass\TextGame\TextGame\bin\Debug\net6.0\TextGame.exe
+C:\Work\SantaClass\TextGame\TextGame\bin\Debug\net6.0\TextGame.deps.json
+C:\Work\SantaClass\TextGame\TextGame\bin\Debug\net6.0\TextGame.runtimeconfig.json
+C:\Work\SantaClass\TextGame\TextGame\bin\Debug\net6.0\TextGame.dll
+C:\Work\SantaClass\TextGame\TextGame\bin\Debug\net6.0\TextGame.pdb
+C:\Work\SantaClass\TextGame\TextGame\obj\Debug\net6.0\TextGame.csproj.AssemblyReference.cache
+C:\Work\SantaClass\TextGame\TextGame\obj\Debug\net6.0\TextGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\SantaClass\TextGame\TextGame\obj\Debug\net6.0\TextGame.AssemblyInfoInputs.cache
+C:\Work\SantaClass\TextGame\TextGame\obj\Debug\net6.0\TextGame.AssemblyInfo.cs
+C:\Work\SantaClass\TextGame\TextGame\obj\Debug\net6.0\TextGame.csproj.CoreCompileInputs.cache
+C:\Work\SantaClass\TextGame\TextGame\obj\Debug\net6.0\TextGame.dll
+C:\Work\SantaClass\TextGame\TextGame\obj\Debug\net6.0\refint\TextGame.dll
+C:\Work\SantaClass\TextGame\TextGame\obj\Debug\net6.0\TextGame.pdb
+C:\Work\SantaClass\TextGame\TextGame\obj\Debug\net6.0\TextGame.genruntimeconfig.cache
+C:\Work\SantaClass\TextGame\TextGame\obj\Debug\net6.0\ref\TextGame.dll
