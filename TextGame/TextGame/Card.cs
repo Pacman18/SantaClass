@@ -1,12 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Diagnostics;
-using System.Linq;
-using System.Runtime.CompilerServices;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace TextGame
+﻿namespace TextGame
 {
     public enum BATTLERESULT
     {
@@ -24,7 +16,7 @@ namespace TextGame
         PAPER,
     }
 
-    public  class GCWCard
+    public class GCWCard
     {
         public CARD CardType;
 
@@ -34,7 +26,7 @@ namespace TextGame
 
             if (own.CardType == CARD.SCISSORS)
             {
-                switch(enemy.CardType)
+                switch (enemy.CardType)
                 {
                     case CARD.SCISSORS:
                         result = BATTLERESULT.DRAW;
@@ -88,7 +80,7 @@ namespace TextGame
             Random random = new Random();
             int result = random.Next(0, 10);
 
-            if(result < 3)
+            if (result < 3)
             {
                 CardType = CARD.SCISSORS;
             }

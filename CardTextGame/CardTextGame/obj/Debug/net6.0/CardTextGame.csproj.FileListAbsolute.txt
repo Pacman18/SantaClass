@@ -1,0 +1,15 @@
+C:\Work\SantaClass\CardTextGame\CardTextGame\bin\Debug\net6.0\CardTextGame.exe
+C:\Work\SantaClass\CardTextGame\CardTextGame\bin\Debug\net6.0\CardTextGame.deps.json
+C:\Work\SantaClass\CardTextGame\CardTextGame\bin\Debug\net6.0\CardTextGame.runtimeconfig.json
+C:\Work\SantaClass\CardTextGame\CardTextGame\bin\Debug\net6.0\CardTextGame.dll
+C:\Work\SantaClass\CardTextGame\CardTextGame\bin\Debug\net6.0\CardTextGame.pdb
+C:\Work\SantaClass\CardTextGame\CardTextGame\obj\Debug\net6.0\CardTextGame.csproj.AssemblyReference.cache
+C:\Work\SantaClass\CardTextGame\CardTextGame\obj\Debug\net6.0\CardTextGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\SantaClass\CardTextGame\CardTextGame\obj\Debug\net6.0\CardTextGame.AssemblyInfoInputs.cache
+C:\Work\SantaClass\CardTextGame\CardTextGame\obj\Debug\net6.0\CardTextGame.AssemblyInfo.cs
+C:\Work\SantaClass\CardTextGame\CardTextGame\obj\Debug\net6.0\CardTextGame.csproj.CoreCompileInputs.cache
+C:\Work\SantaClass\CardTextGame\CardTextGame\obj\Debug\net6.0\CardTextGame.dll
+C:\Work\SantaClass\CardTextGame\CardTextGame\obj\Debug\net6.0\refint\CardTextGame.dll
+C:\Work\SantaClass\CardTextGame\CardTextGame\obj\Debug\net6.0\CardTextGame.pdb
+C:\Work\SantaClass\CardTextGame\CardTextGame\obj\Debug\net6.0\CardTextGame.genruntimeconfig.cache
+C:\Work\SantaClass\CardTextGame\CardTextGame\obj\Debug\net6.0\ref\CardTextGame.dll

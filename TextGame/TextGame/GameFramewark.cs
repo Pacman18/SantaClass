@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace TextGame
+﻿namespace TextGame
 {
     public class GameFramewark
     {
@@ -38,7 +32,7 @@ namespace TextGame
                 _isPlayGame = true;
             }
 
-            if(keyInfo.Key == ConsoleKey.D1 && _isPlayGame)
+            if (keyInfo.Key == ConsoleKey.D1 && _isPlayGame)
             {
                 Console.WriteLine("가위 바위 보의 결과는 ");
                 _isPlayGame = false;
@@ -56,7 +50,7 @@ namespace TextGame
 
             if (_isPressESC)
             {
-                if(keyInfo.Key == ConsoleKey.Y)
+                if (keyInfo.Key == ConsoleKey.Y)
                 {
                     Console.WriteLine("Good Bye");
                     _isGameLive = false;

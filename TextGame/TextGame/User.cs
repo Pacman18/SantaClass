@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace TextGame
+﻿namespace TextGame
 {
     public class User
     {
@@ -19,12 +13,12 @@ namespace TextGame
 
         public void ReceiveCard(GCWCard card)
         {
-            this._card = card;  
+            this._card = card;
         }
 
         public User(string name, int index)
         {
-            _name = name;   
+            _name = name;
             _index = index;
             _card = null;
         }
