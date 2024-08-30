@@ -1,4 +1,6 @@
-﻿namespace TextGame
+﻿using System;
+
+namespace TextGame
 {
     public class GameFramewark
     {
