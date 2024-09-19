@@ -12,6 +12,10 @@ int main()
     User* user = new User();
     user->ShowLog();
 
+    User stackUser;
+
+    stackUser.ShowLog();
+
     std::cout << "Hello World!\n";
 }
 
