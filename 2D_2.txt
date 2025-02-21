@@ -1,0 +1,28 @@
+지난주 복습 
+
+2D 삼각형 오브젝트를 만들어서 상하좌우로 움직이는 코드를 만들어 봅시다. 
+
+
+
+유니티 2D 2주차 수업 
+
+1. serializeField -> 어트리뷰트에 대해서 간단히 설명 
+어트리뷰트 : 코드에 대한 특성을 부여한다. 
+
+https://kukuta.tistory.com/351 
+
+어트리뷰트는 실행되는 코드가 아니라 메타데이터로 저장되며, 리플렉션을 통해 런타임에서 읽을 수 있다는 점이 핵심입니다.
+
+UI 종류에 대해서 알아보자. 
+
+Canvas를 만들어보자.  
+
+UI - 버튼,  TEXT , Sprite 세종류로 구분이된다. 
+
+코드로 Text를 구현하고 
+
+Sprite를 구현해보자
+
+Asset스토어에서  https://assetstore.unity.com/packages/2d/characters/pixel-adventure-1-155360 
+
+스프라이트를 받아보자. 
