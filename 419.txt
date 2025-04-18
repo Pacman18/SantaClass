@@ -1,0 +1,13 @@
+4/19
+
+싱글톤을 사용해서 GameManager를 정리했습니다.
+
+UIManager를 리팩토링해서 잘 만들어 봅시다.
+
+Generic문법을 사용해서  UI 관련 코드를 작성해보자.
+
+Tween을 알아보자
+
+Scroller를 만드는 방법 
+
+Tab 페이지를 만들어 봅시다. 
